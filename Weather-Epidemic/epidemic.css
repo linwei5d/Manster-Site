@@ -1,0 +1,32 @@
+#epidemic{
+    position: absolute;
+
+    margin-left: 300px+10vh;
+    color: white;
+}
+.td_word:hover{
+    /* transform: scale(1.1); */
+   transition: 0.3s;
+   color: rgb(228, 158, 72);
+}
+.td_num{
+    color: rgba(255, 35, 35, 0.9);
+    
+}
+#s{
+    font-size: 15px;
+}
+#epidemic:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+}
+#border{
+    position: absolute;
+    margin-bottom: 30vh;
+    margin-left: 147%;
+    height: 200px;
+    width: 900px;
+}
+#border:hover{
+    margin-right: 900px;
+}

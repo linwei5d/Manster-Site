@@ -1,0 +1,47 @@
+{
+    "code": 200,
+    "msg": "success",
+    "result": {
+      "desc": {
+        "id": 1,
+        "createTime": 1579537899000,
+        "modifyTime": 1609818204000,
+        "currentConfirmedCount": 1353,
+        "confirmedCount": 97061,
+        "suspectedCount": 4339,
+        "curedCount": 90914,
+        "deadCount": 4794,
+        "seriousCount": 318,
+        "suspectedIncr": 16,
+        "currentConfirmedIncr": 23,
+        "confirmedIncr": 89,
+        "curedIncr": 63,
+        "deadIncr": 3,
+        "seriousIncr": 24,
+        "yesterdayConfirmedCountIncr": 1515,
+        "yesterdaySuspectedCountIncr": 10,
+        "foreignStatistics": {
+          "currentConfirmedCount": 26610735,
+          "confirmedCount": 85520276,
+          "suspectedCount": 4,
+          "curedCount": 57061764,
+          "deadCount": 1847777,
+          "suspectedIncr": 0,
+          "currentConfirmedIncr": 58816,
+          "confirmedIncr": 446720,
+          "curedIncr": 380719,
+          "deadIncr": 7185
+        },
+        "globalStatistics": {
+          "currentConfirmedCount": 26612088,
+          "confirmedCount": 85617337,
+          "curedCount": 57152678,
+          "deadCount": 1852571,
+          "currentConfirmedIncr": 58839,
+          "confirmedIncr": 446809,
+          "curedIncr": 380782,
+          "deadIncr": 7188
+        }
+      }
+    }
+  }
